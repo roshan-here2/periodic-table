@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+}
+
+.blue {
+    color: blue;
+    background-color: #9e9edd;
+}
+
+.seagreen{
+
+color: #09da9b;
+background-color: #cffff7;
+
+}
+
+.red{
+
+    color: red;
+    background-color: #da8989;
+
+}
+
+.purple{
+
+color: #d421cb;
+background-color: #dd86d6;
+
+}
+
+.gray{
+    
+color: gray;
+background-color: #b4acac;
+
+}
+
+.lightbrown{
+
+color: rgb(192, 134, 59);
+background-color: #ffe5ad
+
+}
+
+.brown{
+
+color: rgb(180, 64, 64);
+background-color: #fc905e;
+
+};
